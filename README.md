@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer | Data Enthusiast
 
-![Profile Banner](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/hellocoders_rounded.gif](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
+![Profile Banner](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
 ---
 
 ## 🚀 About M
