@@ -12,7 +12,7 @@
 * 📊 Skilled in **Power BI & Data Analysis**
 * 🧠 Strong in **Problem Solving & Critical Thinking**
 * 📈 Interested in **Market Research & Business Insights**
-* 🎯 Passionate about building real-world systems
+
 
 ---
 
