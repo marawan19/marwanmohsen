@@ -1,5 +1,12 @@
 # Hi, I'm Marwan Mohsen 👋
 
+## 📫 Contact Me
+
+* 📧 Email: [marwanmohsen221@gmail.com](mailto:marwanmohsen221@gmail.com)
+* 🌐 Portfolio: https://marwanm.netlify.app/
+
+---
+
 ### 💻 Web Developer | Data Analysis
 
 ![Profile Banner](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
