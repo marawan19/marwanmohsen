@@ -64,8 +64,7 @@
 
 ## 📂 Projects
 
-🚧 *Coming Soon — I am currently building and uploading my projects*
-
+🚧 * check my profile 
 ---
 
 ## 📊 GitHub Stats
