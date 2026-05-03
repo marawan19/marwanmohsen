@@ -1,11 +1,12 @@
 # Hi, I'm Marwan Mohsen 👋
 
-### 💻 Web Developer | Data Analysis 
+### 💻 Web Developer | Data Analysis
 
 ![Profile Banner](https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif)
+
 ---
 
-## 🚀 About M
+## 🚀 About Me
 
 * 💻 Web Developer (Frontend & Backend)
 * 📊 Skilled in **Power BI & Data Analysis**
@@ -78,9 +79,8 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: (add your link)
-* 🌐 Portfolio: (optional)
+* 📧 Email: [marwanmohsen221@gmail.com](mailto:marwanmohsen221@gmail.com)
+* 🌐 Portfolio: https://marwanm.netlify.app/
 
 ---
 
